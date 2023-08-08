@@ -1,4 +1,3 @@
-
 const  div = document.getElementById("container");
 
 div.addEventListener("click",  () => {
